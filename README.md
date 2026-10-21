@@ -1598,3 +1598,7 @@ https://github.com/yesu166/Synthetic-Threat-Simulation-Trainer
 ---
 
 > **Build the simulation. Measure the decision. Learn from the result. Improve through repetition.**
+
+## Project brief
+
+For the project's purpose, scope, current maturity, proposed roadmap, limitations, and collaboration opportunities, see [PROJECT_BRIEF.md](PROJECT_BRIEF.md).
